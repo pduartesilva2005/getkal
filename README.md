@@ -37,7 +37,7 @@ Primeiro você precisa ter o [Git](https://git-scm.com) e o [Node.js](https://no
 - 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/getkal.git`;
 - 2 - Entre na pasta `cd getkal`;
 - 3 - Rode `yarn init -y` ou `npm init -y` para iniciar o node no seu projeto;
-- 5 - Instale o serve como dependência de desenvolimento com esse comando: `yarn add serve -D` ou `npm install server -D`;
+- 5 - Instale o serve como dependência de desenvolimento com esse comando: `yarn add serve -D` ou `npm install serve -D`;
 - 6 - Rode `yarn serve .` ou `npx serve .` para rodar o projeto.
 
 ## ⚡️ Como contribuir
