@@ -34,7 +34,7 @@ O getkal é uma app de calculadora de calorias de um determinado peso, gênero, 
 
 Primeiro você precisa ter o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en) instalado na suá máquina
 
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/getkal.git`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pduartesilva2005/getkal.git`;
 - 2 - Entre na pasta `cd getkal`;
 - 3 - Rode `yarn init -y` ou `npm init -y` para iniciar o node no seu projeto;
 - 5 - Instale o serve como dependência de desenvolimento com esse comando: `yarn add serve -D` ou `npm install serve -D`;
